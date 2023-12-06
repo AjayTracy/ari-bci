@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delirium Detection Test</title>
+    <link rel = 'stylesheet' type = "text/css" href = "{{ url_for('static', filename='stylesheets/main.css') }}">
+    
+</head>
+<body>
+
+    <div id = 'exit_box' class = 'no_box'> EXIT </div>
+    <div id = 'enter_box' class = 'yes_box'> ENTER </div>
+    <div id = 'main_dot' class = 'dot'></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script src="{{url_for('static', filename='javascript/libraries/RosLib.js')}}"></script>
+    <script src="{{url_for('static', filename='javascript/intro.js')}}"></script>
+</body>
+</html>

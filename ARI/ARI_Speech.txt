@@ -1,0 +1,32 @@
+Voice for delirium test:
+
+'Hi, my name is ARI. I am here to administer a delirium detection test. To proceed to the test please use your BCI headset to 
+select the green box labled enter on the right side. To exit please select the red box labled exit on the left side'
+
+
+'I am going to read you a series of 10 letters. Whenever you hear the letter ‘A’, indicate by selecting the green box labled yes.'
+
+
+'S'
+'A'
+'V'
+'E'
+'A'
+'H'
+'A'
+'A'
+'R'
+'T'
+
+
+'I am now going to ask you some questions, please indicate your answer by selecting the red box on the left for No 
+and the green box on the right for Yes'
+
+'Will a stone float on water?'
+'Are there fish in the sea?'
+'Does one pound weigh more than two pounds?'
+'Can you use a hammer to pound a nail?'
+
+
+'Thank you. You have now reached the end of the test.'
+
